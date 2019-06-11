@@ -1,5 +1,5 @@
 # Analise-de-dados-Óbitos-Infantis
-
+Nomes dos participantes do grupo: FERNANDO SOARES e NATÁLIA MARINHO.    5ADS MANHÃ. 
 
 Esse projeto é uma analise de óbitos Infantis em porcentagem de casos investigados por cidade no brasil.
 
