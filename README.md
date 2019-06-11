@@ -1,4 +1,4 @@
-# Analise-de-dados-Óbitos
+# Analise-de-dados-Óbitos-Infantis
 
 
 Esse projeto é uma analise de óbitos Infantis em porcentagem de casos investigados por cidade no brasil.
